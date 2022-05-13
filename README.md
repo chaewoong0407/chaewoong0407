@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaewoong0407&count_bg=%2361D10C&title_bg=%23555555&icon=t-mobile.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-🏫   I am attending Gwangju Software Meister High School
+🏫   I am graduate from Gwangju Software Meister High School
 
 🌱 I’m want to be a frontend developer
 
