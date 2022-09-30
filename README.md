@@ -4,7 +4,7 @@
 
 🏫   I am graduate from Gwangju Software Meister High School
 
-🌱 I’m want to be a frontend developer
+🌱 I’m a junior frontend developer
 
 ### Contact
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005911024804)](https://www.facebook.com/profile.php?id=100005911024804) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:an3125211237@gmail.com)](mailto:an3125211237@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/an_._._cw/)](https://www.instagram.com/an_._._cw/)
